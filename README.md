@@ -1,6 +1,6 @@
 # VS Code Custom UI Setup
 
-This repository contains `spyrochat.css`, a custom stylesheet for Visual Studio Code UI customization.
+This repository contains `spyrochat.css` & `.vscode/settings.json`, a custom stylesheet for Visual Studio Code UI customization.
 
 ## Setup
 
