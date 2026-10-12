@@ -1,0 +1,93 @@
+{
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+    "editor.fontFamily": "'Google Sans Code Medium', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 12,
+    "amazonQ.telemetry": false,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "args": [
+                "--login",
+                "-i"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.autofetch": true,
+    "github.copilot.enable": {
+        "css": true,
+        "php": true
+    },
+    "editor.tabSize": 3,
+    "js/ts.updateImportsOnFileMove.enabled": "always",
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "amazonQ.suppressPrompts": {
+        "amazonQChatPairProgramming": true,
+        "amazonQChatDisclaimer": true
+    },
+    "workbench.activityBar.location": "top",
+    "workbench.sideBar.location": "right",
+    "php-cs-fixer.onsave": true,
+    "php.executablePath": "C:\\tools\\php85\\php.exe",
+    "workbench.productIconTheme": "developer-icons",
+    "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.scrollbar.horizontalScrollbarSize": 8,
+    "editor.scrollbar.verticalScrollbarSize": 8,
+    "editor.scrollbar.vertical": "hidden",
+    "window.title": " ",
+    "window.dialogStyle": "custom",
+    "window.controlsStyle": "hidden",
+    "window.commandCenter": false,
+    "window.confirmBeforeClose": "always",
+    "workbench.editor.showTabs": "single",
+    "chat.instructionsFilesLocations": {
+        ".github/instructions": true,
+        ".claude/rules": true,
+        "~/.copilot/instructions": true,
+        "~/.claude/rules": true,
+        "C:\\Users\\PC\\AppData\\Local\\Temp\\postman-collections-post-response.instructions.md": true,
+        "C:\\Users\\PC\\AppData\\Local\\Temp\\postman-collections-pre-request.instructions.md": true,
+        "C:\\Users\\PC\\AppData\\Local\\Temp\\postman-folder-post-response.instructions.md": true,
+        "C:\\Users\\PC\\AppData\\Local\\Temp\\postman-folder-pre-request.instructions.md": true,
+        "C:\\Users\\PC\\AppData\\Local\\Temp\\postman-http-request-post-response.instructions.md": true,
+        "C:\\Users\\PC\\AppData\\Local\\Temp\\postman-http-request-pre-request.instructions.md": true
+    },
+    "window.menuBarVisibility": "compact",
+    "chat.sessionSync.enabled": true,
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/PC/.vscode/spyrochat.css"
+    ],
+    "workbench.colorTheme": "One Dark Italic Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tabCompletion": "on",
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "php.suggest.basic": false,
+    "postman.mcp.notifications.postmanMCP": false,
+    "workbench.startupEditor": "none"
+}
